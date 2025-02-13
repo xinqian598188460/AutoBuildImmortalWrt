@@ -8,7 +8,6 @@ on:
         description: "请选择路由器型号"
         required: true
         options:
-          - xunlong_orangepi-zero3
           - friendlyarm_nanopi-r1s-h5
           - xunlong_orangepi-zero-plus
           - friendlyarm_nanopi-neo2
